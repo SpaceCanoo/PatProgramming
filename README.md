@@ -64,7 +64,6 @@ Enjoy Prison.
 
 Fibonacci
 ```
-Code:
 NoOooOooo!
 Stalker Child.
 NoOOoOOOO!
